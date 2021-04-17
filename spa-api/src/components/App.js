@@ -4,8 +4,6 @@ import { QueryClient, QueryClientProvider, useQuery } from "react-query";
 import { ReactQueryDevtools } from "react-query/devtools";
 import CardDefault from "./CardDefault";
 
-import "./App.css";
-
 const queryClient = new QueryClient();
 
 function App() {

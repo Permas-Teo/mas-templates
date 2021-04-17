@@ -1,5 +1,5 @@
 import React from "react";
-import { getImageSrc } from "./utilities/utils";
+import { getImageSrc } from "../utilities/utils";
 
 const CardDefault = ({ card }) => {
   console.log(card);
